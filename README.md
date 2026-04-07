@@ -9,8 +9,6 @@
 
 GitHub member since 2018, operating primarily as a builder with a consistent focus on direct commit-driven development. Activity centers on frontend and web technologies, with recent contributions concentrated in JavaScript. Public repositories demonstrate practical implementation across small-scale projects, emphasizing functional delivery and ongoing maintenance in a low-collaboration, high-ownership environment.
 
-Technical foundation is grounded in JavaScript, HTML, TypeScript, and complementary web technologies including CSS, Less, and Vue, alongside supporting languages such as Python and Java.
-
 ## Tech Stack
 
 ### Languages
